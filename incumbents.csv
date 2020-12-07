@@ -1,0 +1,79 @@
+State,Chamber,District,DEM Candidate,REP Candidate,Incumbent,DEM Pct,REP Pct,DEM Votes,REP Votes
+GA,House,1,Joyce Griggs,Buddy Carter,Buddy Carter,41.7,58.3,135238,189457
+GA,House,2,Sanford Bishop,Don Cole,Sanford Bishop,59.1,40.9,161397,111620
+GA,House,3,Val Almonord,Drew Ferguson,Drew Ferguson,35,65,129792,241526
+GA,House,4,Hank Johnson,Johsie Ezammudeen,Hank Johnson,80.1,19.9,278906,69393
+GA,House,5,Nikema Williams,Angela Stanton-King,NA,85.1,14.9,301857,52646
+GA,House,6,Lucy McBath,Karen Handel,Lucy McBath,54.6,45.4,216775,180329
+GA,House,7,Carolyn Bourdeaux,Rich McCormick,NA,51.4,48.6,190900,180564
+GA,House,8,Lindsay Holliday,Austin Scott,Austin Scott,35.5,64.6,109264,198701
+GA,House,9,Devin Pandy,Andrew Clyde,NA,21.4,78.6,79797,292750
+GA,House,10,Tabitha Johnson-Green,Jody Hice,Jody Hice,37.7,62.3,142636,235810
+GA,House,11,Dana Barrett,Barry Loudermilk,Barry Loudermilk,39.6,60.4,160623,245259
+GA,House,12,Liz Johnson,Rick Allen,Rick Allen,41.6,58.4,129061,181038
+GA,House,13,David Scott,Becky Hites,David Scott,77.4,22.6,279045,81476
+GA,House,14,Kevin Van Ausdal,Marjorie Taylor Greene,NA,25.3,74.6,77798,229827
+GA,Senate,,Jon Ossoff,David Perdue,David Perdue,,,,
+GA,Senate,,Raphael Warnock,Kelly Loeffler,Kelly Loeffler,,,,
+AZ,Senate,,Mark Kelly,Martha McSally,Martha McSally,,,,
+AZ,House,1,Tom O'Halleran,Tiffany Shedd,Tom O'Halleran,51.6,48.4,188469,176709
+AZ,House,2,Ann Kirkpatrick,Brandon Martin,Ann Kirkpatrick,55.1,44.9,209945,170975
+AZ,House,3,Raul Grijalva,Daniel Wood,Raul Grijalva,64.6,35.4,174243,95594
+AZ,House,4,Delina DiSanto,Paul Gosar,Paul Gosar,30.2,69.8,120484,278002
+AZ,House,5,Joan Greene,Andy Biggs,Andy Biggs,41.1,58.9,183171,262414
+AZ,House,6,Hiral Tipirneni,David Schweikert,David Schweikert,47.8,52.2,199644,217783
+AZ,House,7,Ruben Gallego,Joshua Barnett,Ruben Gallego,76.7,23.3,165452,50226
+AZ,House,8,Michael Muscato,Debbie Lesko,Debbie Lesko,40.4,59.6,170816,251633
+AZ,House,9,Greg Stanton,Dave Giles,Greg Stanton,61.6,38.4,217094,135180
+FL,House,1,Phil Ehr,Matt Gaetz,Matt Gaetz,34,64.6,149172,283352
+FL,House,2,NA,Neal Dunn,Neal Dunn,,97.9,,305337
+FL,House,3,Adam Christensen,Kat Cammack,Kat Cammack,42.9,57.1,167326,223075
+FL,House,4,Donna Deegan,John Rutherford,John Rutherford,38.9,61.1,196423,308497
+FL,House,5,Al Lawson,Gary Adler,Al Lawson,65.1,34.9,219463,117510
+FL,House,6,Clint Curtis,Michael Waltz,Michael Waltz,39.4,60.6,172305,265393
+FL,House,7,Stephanie Murphy,Leo Valentin,Stephanie Murphy,55.3,43.2,224946,175750
+FL,House,8,Jim Kennedy,Bill Posey,Bill Posey,38.6,61.4,177695,282093
+FL,House,9,Darren Soto,Bill Olson,Darren Soto,56,44,240724,188889
+FL,House,10,Val Demings,Vennia Francois,Val Demings,63.6,36.4,239434,136889
+FL,House,11,Dana Cottrell,Daniel Webster,Daniel Webster,33.3,66.7,158094,316979
+FL,House,12,Kimberly Walker,Gus Bilirakis,Gus Bilirakis,37.1,62.9,168194,284941
+FL,House,13,Charlie Crist,Anna Luna,Charlie Crist,53,47,215405,190713
+FL,House,14,Kathy Castor,Christine Quinn,Kathy Castor,60.3,39.7,224240,147896
+FL,House,15,Alan Cohn,Scott Franklin,NA,44.6,55.4,174297,216374
+FL,House,16,Margaret Good,Vern Buchanan,Vern Buchanan,44.5,55.5,215683,269001
+FL,House,17,Allen Ellison,Greg Steube,Greg Steube,34.1,64.6,140487,266514
+FL,House,18,Pam Keith,Brian Mast,Brian Mast,41.5,56.3,186674,253286
+FL,House,19,Cindy Banyai,Byron Donalds,NA,38.7,61.3,172146,272440
+FL,House,20,Alcee Hastings,Greg Musselwhite,Alcee Hastings,78.7,21.3,253661,68748
+FL,House,21,Lois Frankel,Laura Loomer,Lois Frankel,59,39.1,237925,157612
+FL,House,22,Ted Deutch,James Pruden,Ted Deutch,58.6,41.4,235764,166553
+FL,House,23,Debbie Wasserman Schultz,Carla Spalding,Debbie Wasserman Schultz,58.2,41.8,221239,158874
+FL,House,24,Frederica Wilson,Lavern Spicer,Frederica Wilson,75.6,20.4,218825,59084
+FL,House,25,NA,Mario Diaz-Balart,Mario Diaz-Balart,,,,
+FL,House,26,Debbie Mucarsel-Powell,Carlos Gimenez,Debbie Mucarsel-Powell,48.3,51.7,165407,177223
+FL,House,27,Donna Shalala,Maria Elvira Salazar,Donna Shalala,48.6,51.4,166758,176141
+MI,House,1,Dana Ferguson,Jack Bergman,Jack Bergman,36.8,61.6,153328,256581
+MI,House,2,Bryan Berghoef,Bill Huizenga,Bill Huizenga,38.2,59.2,154122,238711
+MI,House,3,Hillary Scholten,Peter Meijer,NA,47,53,189769,213649
+MI,House,4,Jerry Hilliard,John Moolenaar,John Moolenaar,32.4,65,120802,242621
+MI,House,5,Daniel Kildee,Tim Kelly,Daniel Kildee,54.5,41.8,196599,150772
+MI,House,6,Jon Hoadley,Fred Upton,Fred Upton,40.2,55.9,152085,211496
+MI,House,7,Gretchen Driskell,Tim Walberg,Tim Walberg,41.2,58.8,159743,227524
+MI,House,8,Elissa Slotkin,Paul Junge,Elissa Slotkin,50.9,47.3,217922,202525
+MI,House,9,Andy Levin,Charles Langworthy,Andy Levin,57.7,38.4,230318,153296
+MI,House,10,Kimberly Bizon,Lisa McClain,NA,33.7,66.3,138179,271607
+MI,House,11,Haley Stevens,Eric Esshaki,Haley Stevens,50.2,47.8,226128,215405
+MI,House,12,Debbie Dingell,Jeff Jones,Debbie Dingell,66.4,30.7,254957,117719
+MI,House,13,Rashida Tlaib,David Dudenhoefer,Rashida Tlaib,78.1,18.6,223205,53311
+MI,House,14,Brenda Lawrence,Robert Patrick,Brenda Lawrence,79.3,18.3,271370,62664
+VA,House,1,Qasim Rashid,Robert Wittman,Robert Wittman,41.8,58.2,186923,260614
+VA,House,2,Elaine Luria,Scott Taylor,Elaine Luria,51.6,45.9,185733,165031
+VA,House,3,Bobby Scott,John Collick,Bobby Scott,68.5,31.5,233326,107299
+VA,House,4,Donald McEachin,Leon Benjamin,Donald McEachin,61.7,38.3,241142,149625
+VA,House,5,Cameron Webb,Robert Good,NA,47.4,52.6,190315,210988
+VA,House,6,Nicholas Betts,Ben Cline,Ben Cline,35.3,64.7,134729,246606
+VA,House,7,Abigail Spanberger,Nick Freitas,Abigail Spanberger,50.9,49.1,230893,222623
+VA,House,8,Donald Beyer,Jeff Jordan,Donald Beyer,76,24,301454,95365
+VA,House,9,NA,Morgan Griffith,Morgan Griffith,,,,
+VA,House,10,Jennifer Wexton,Aliscia Andrews,Jennifer Wexton,56.6,43.4,268734,206253
+VA,House,11,Gerry Connolly,Manga Anantatmula,Gerry Connolly,71.6,28.4,280725,111380
