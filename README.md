@@ -12,4 +12,4 @@ The Election.ipynb file contains the code for a hierarchical Bayesian regression
 
 * presidential_poll_averages_2020.csv: adjusted state-level presidential polling data from [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/)
 
-* Binomial_Candidate_Predictions1.csv: includes the results from sampling using pymc3. This can be read to quickly reproduce the plots on another system.
+* Binomial_Candidate_Predictions1.csv: includes the results from sampling using pymc3. This can be used to quickly reproduce the plots on another system.
